@@ -1,2 +1,8 @@
 /classes/
 /test-classes/
+*.class
+*.settings
+.settings
+*.jar
+/target/**
+/target/
